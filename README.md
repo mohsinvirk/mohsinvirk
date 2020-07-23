@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohsin Virk
 #### I am Frontend Engineer @HolidayFox
-I'm a Frontend developer with expertise in React.js and GraphQL ecosystem. 
+I'm a Software Engineering Student having 2+ years of experience with EcmaScript/TypeScript MERN stack,Redux, Ant Design Pro, GraphQL, Apollo, Progressive web apps (PWA), Firebase and Next.js.
 
 Skills: GraphQL / REACT.JS / JavaScript / TypeScript / HTML / [S/L][C/E]SS
 
