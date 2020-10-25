@@ -5,7 +5,7 @@ I'm a Software Engineering Student having 2+ years of experience with EcmaScript
 Skills: GraphQL / REACT.JS / JavaScript / TypeScript / HTML / [S/L][C/E]SS
 
 🔭 I’m currently working on HolidayFox.   
-🌱 I’m currently learning Python and Machine Learning.   
+🌱 I’m currently learning Solidity and Blockchain.   
 👯 I’m looking to collaborate on OSS projects.   
 💬 Ask me about Freelancing.   
 📫 How to reach me: mohsin@mohsinvirk.com.   
