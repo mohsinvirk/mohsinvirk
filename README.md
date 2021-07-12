@@ -5,7 +5,7 @@ I'm a Software Engineer having experience with EcmaScript/TypeScript MERN stack,
 Skills: GraphQL / REACT.JS / Next.js / JavaScript / TypeScript / HTML / [S/L][C/E]SS
 
 🔭 I’m currently working on HolidayFox.   
-🌱 I’m currently learning Solidity and Blockchain.   
+🌱 I’m currently learning Frontend Accessibility and Performace enhancements.   
 👯 I’m looking to collaborate on OSS projects.   
 💬 Ask me about Freelancing.   
 📫 How to reach me: mohsin@mohsinvirk.com.   
