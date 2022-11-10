@@ -2,7 +2,7 @@
 #### I am Senior Frontend Engineer @HolidayFox
 I'm a Senior Software Engineer having experience with EcmaScript/TypeScript MERN stack,Redux, Ant Design Pro, GraphQL, Apollo, Progressive web apps (PWA), Firebase and Next.js.
 
-Skills: GraphQL / REACT.JS / Next.js / JavaScript / TypeScript / HTML / [S/L][C/E]SS
+Skills: GraphQL / REACT.JS / Next.js / JavaScript / TypeScript / HTML / SCSS / LESS / CSS
 
 🔭 I’m currently working on HolidayFox.   
 🌱 I’m currently learning Frontend Accessibility and Performace enhancements.   
