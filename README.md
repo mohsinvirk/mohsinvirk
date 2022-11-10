@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohsin Virk
-#### I am Frontend Engineer @HolidayFox
-I'm a Software Engineer having experience with EcmaScript/TypeScript MERN stack,Redux, Ant Design Pro, GraphQL, Apollo, Progressive web apps (PWA), Firebase and Next.js.
+#### I am Senior Frontend Engineer @HolidayFox
+I'm a Senior Software Engineer having experience with EcmaScript/TypeScript MERN stack,Redux, Ant Design Pro, GraphQL, Apollo, Progressive web apps (PWA), Firebase and Next.js.
 
 Skills: GraphQL / REACT.JS / Next.js / JavaScript / TypeScript / HTML / [S/L][C/E]SS
 
